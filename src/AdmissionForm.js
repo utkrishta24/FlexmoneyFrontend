@@ -36,7 +36,7 @@ const AdmissionForm = () => {
                 return;
             }
 
-            const response = await fetch('http://localhost:3001/submit', {
+            const response = await fetch('https://flexmoneybackend.onrender.com/submit', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
