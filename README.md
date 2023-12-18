@@ -1,4 +1,12 @@
 # MERN Form for Yoga Class by FlexMoney
+## Important Note
+- For the sake of hosting it on render.com, both frontend & backend part of the code are in separate repository and the can be accessed through here:<br>
+1- Frontend Repo: [Click here](https://github.com/utkrishta24/FlexmoneyFrontend.git)<br>
+2- Backend  Repo: [Click here](https://github.com/utkrishta24/FlexmoneyBackend.git) 
+
+## Project Deployed Links
+Frontend: [Click here](https://flexmoneybackend.onrender.com/)<br>
+Backend: [Click here](https://flexmoneyfrontend-ydz5.onrender.com/) 
 
 ## Problem Statement
 - Assume that you are the CTO of an outsourcing firm which has been chosen to build an
@@ -13,10 +21,6 @@ every month and he can pay it any time of the month.<br>
 participants can choose any batch in a month and can move to any other batch next
 month. I.e. participants can shift from one batch to another in different months but in the
 same month they need to be in the same batch.
-
-## Project Deployed Links
-Frontend: [Click here](https://flexmoneybackend.onrender.com/)<br>
-Backend: [Click here](https://flexmoneyfrontend-ydz5.onrender.com/) 
 
 ## ER Diagram
 <p align="center">
