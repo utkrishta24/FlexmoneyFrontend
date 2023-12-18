@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+# React Frontend Form for Yoga Class by FlexMoney
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Problem Statement
+- Assume that you are the CTO of an outsourcing firm which has been chosen to build an
+admission form for the Yoga Classes which happen every month.
+Requirements for the admission form are:<br>
+- Only people within the age limit of 18-65 can enroll for the monthly classes and they will
+be paying the fees on a month on month basis. I.e. an individual will have to pay the fees
+every month and he can pay it any time of the month.<br>
+- They can enroll any day but they will have to pay for the entire month. The monthly fee is
+500/- Rs INR.<br>
+- There are a total of 4 batches a day namely 6-7AM, 7-8AM, 8-9AM and 5-6PM. The
+participants can choose any batch in a month and can move to any other batch next
+month. I.e. participants can shift from one batch to another in different months but in the
+same month they need to be in the same batch.
 
-## Available Scripts
+## Project Deployed Links
+Frontend: [Click here](https://flexmoneybackend.onrender.com/)<br>
+Backend: [Click here](https://flexmoneyfrontend-ydz5.onrender.com/) 
 
-In the project directory, you can run:
+## ER Diagram
+<p align="center">
+  <img src="" height="350px" width="700px"/>
+</p>
 
-### `npm start`
+## Screenshots of deployed frontend & backend
+<p align="center">
+  <img src="https://github.com/utkrishta24/FlexmoneyFrontend.git" height="150px" width="300px"/>
+  <img src="" height="150px" width="300px"/>
+  <img src="" height="150px" width="300px"/>
+  <img src="" height="150px" width="300px"/>
+</p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Installation
+<ul>
+  <li>Clone frontend repo using <code>git clone https://github.com/utkrishta24/FlexmoneyFrontend.git</code></li>
+  <li>Open frontend folder in terminal.</li>
+  <li>Run <code>npm i</code> to install frontend dependencies as mentioned in package.json</li>
+  <li>Run <code>npm start</code> to start React app in localhost.
+  <li>Clone backend repo using <code>git clone https://github.com/utkrishta24/FlexmoneyBackend.git</code></li>
+  <li>Open backend folder in separate terminal.
+  <li>Have your mongodb connection established before running server.js.
+  <li>Run <code>npm i</code> to install backend dependencies as mentioned in package.json</li>
+  <li>Run <code>node server.js</code> to start the server.
+ </ul>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Technologies Used
+1) React 
+2) Node
+3) Express
+4) MongoDB
+5) Github (Version Control)
+6) Render.com (for Deployment & Hosting)
