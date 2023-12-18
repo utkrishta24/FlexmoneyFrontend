@@ -1,4 +1,4 @@
-# React Frontend Form for Yoga Class by FlexMoney
+# MERN Form for Yoga Class by FlexMoney
 
 ## Problem Statement
 - Assume that you are the CTO of an outsourcing firm which has been chosen to build an
@@ -20,8 +20,9 @@ Backend: [Click here](https://flexmoneyfrontend-ydz5.onrender.com/)
 
 ## ER Diagram
 <p align="center">
-  <img src="" height="350px" width="700px"/>
+  <img src="https://github.com/utkrishta24/FlexmoneyFrontend/blob/main/screenshots/erdiag.png" height="350px" width="700px"/>
 </p>
+<p>Following is the ER Diagram of the database. A json file named test.admissions.json is also included in this repository for your reference. Here it is assumed that Complete Payment is also fully working module but in implementation, the function is mocked.</p>
 
 ## Screenshots of deployed frontend & backend
 <p align="center">
