@@ -25,10 +25,12 @@ Backend: [Click here](https://flexmoneyfrontend-ydz5.onrender.com/)
 
 ## Screenshots of deployed frontend & backend
 <p align="center">
-  <img src="https://github.com/utkrishta24/FlexmoneyFrontend.git" height="150px" width="300px"/>
-  <img src="" height="150px" width="300px"/>
-  <img src="" height="150px" width="300px"/>
-  <img src="" height="150px" width="300px"/>
+  <img src="https://github.com/utkrishta24/FlexmoneyFrontend/blob/main/screenshots/Filled1.png" height="150px" width="300px"/>
+  <img src="https://github.com/utkrishta24/FlexmoneyFrontend/blob/main/screenshots/Payment.png" height="150px" width="300px"/>
+  <img src="https://github.com/utkrishta24/FlexmoneyFrontend/blob/main/screenshots/error.png" height="150px" width="300px"/>
+  <img src="https://github.com/utkrishta24/FlexmoneyFrontend/blob/main/screenshots/Server.png" height="150px" width="300px"/>
+  <img src="https://github.com/utkrishta24/FlexmoneyFrontend/blob/main/screenshots/db1.png" height="150px" width="300px"/>
+  <img src="https://github.com/utkrishta24/FlexmoneyFrontend/blob/main/screenshots/db2.png" height="150px" width="300px"/>
 </p>
 
 ## Installation
