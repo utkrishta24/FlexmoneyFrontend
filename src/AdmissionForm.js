@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-
+import './Admission.css';
 const CompletePayment = (name, age, selectedBatch) => {
     return {
         success: true,
@@ -68,7 +68,7 @@ const AdmissionForm = () => {
     };
 
     return (
-        <div>
+        <div className="admission-form-container">
             <h2>Admission Form</h2>
             <form>
                 <label>Name:</label>
